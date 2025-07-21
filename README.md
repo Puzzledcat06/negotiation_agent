@@ -1,3 +1,5 @@
+INSTALL OLLAMA AND LLAMA3 TO RUN THIS CODE
+
 Buyer Agent Strategy
 Chosen Personality
 The buyer agent is designed with a "data analyst" personality, focusing on logic, numbers, and strategic reasoning. This personality was chosen because it aligns well with real-world negotiation principles:
