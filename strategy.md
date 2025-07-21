@@ -1,3 +1,5 @@
+INSTALL OLLAMA AND LLAMA3 TO RUN THIS CODE
+
 # Buyer Agent Strategy
 
 ## Chosen Personality
